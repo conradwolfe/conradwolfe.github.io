@@ -6,8 +6,8 @@ title: Diving into Software Engineering
 date: 2019-01-16
 labels:
   - JavaScript
-  - ASE
   - Software Engineering
+  - ICS 314
 ---
 
 <img class="ui huge centered rounded image" src="../images/javascript.jpg">
