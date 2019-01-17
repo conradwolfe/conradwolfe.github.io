@@ -37,5 +37,3 @@ Athletic Software Engineering, what exactly does that mean? No, it is not an exe
 ## Final Thoughts
 
 WOD’s, JavaScript, Athletic Software Engineering, its enough to make your head spin. We tackled a lot in these first two weeks, and as the sun sets on my second week of ICS 314 it’s still hard to say what other experiences are waiting for me through the doors of Professor Cam Moore’s classroom. But I can say this much, I’ll be looking forward to it, and welcoming them all with open arms.
-<div style = "margin-bottom:35px;">
-</div>
