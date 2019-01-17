@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../images/javascript.jpg">
+<img class="ui medium right floated rounded image" src="../images/javascript.jpg">
 
 ## Introduction
 
