@@ -19,10 +19,14 @@ As a student who just transferred to the University of Hawaii at Manoa, I wasn�
 ## JavaScript
 
 Having completed the 106 exercises in basic JavaScript the first thing I felt was a resounding sense of relief. Not because I was glad that it was over, but because coding in JavaScript felt a lot like running into an old friend that you haven’t seen in a while, and that friend is Java. Some things are different here and there, but mostly the same except for that JavaScript is, for better or worse, a dynamically typed language. What this essentially means is that there is no variable typing like there is in Java, think int, double, or float. Instead, we have var, along with let and const as of ES6, which encompass all data types. Take a look at the following snippet of code as an example: 
+
+'''
 let foo = 0;
 console.log(foo); //0
 foo = ‘Zero’;
 console.log(foo); //Zero
+'''
+
 Here we have a single variable ‘foo’ which is instantiated as an integer whose value is then displayed in the console. Next, foo is assigned a string value of ‘Zero’ and again displayed in the console. In Java this code would send your compiler into a fit of type errors. However, since JavaScript is dynamically typed, our variable foo is able to take on a variety of different types. In my opinion, this gives developers a bit more flexibility to implement a number of elegant solutions that would normally require a bit more work using Java. Although I will concede that this also has the potential to make hunting down bugs a nightmarish experience. 
 Another significant difference between Java and JavaScript was the change from immutable objects, to mutable objects. Essentially, this means that JavaScript allows us to continue to add fields to an object even after its been created. Once again, I feel that this gives developers more flexibility with their code, so while Java may be considered the more powerful language between the two, I have found the flexibility that JavaScript offers to be a refreshing change of pace.
 
