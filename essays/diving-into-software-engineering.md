@@ -3,96 +3,33 @@ layout: essay
 type: essay
 title: Diving into Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2019-01-16
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - JavaScript
+  - ASE
+  - Software Engineering
 ---
 
 <img class="ui medium left floated image" src="../images/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Introduction
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+As a student who just transferred to the University of Hawaii at Manoa, I wasn’t sure what was waiting for me beyond the doors to Professor Cam Moore’s ICS 314 – Software Engineering section. What I quickly found out was that it was a lot like diving into a cold pool early in the morning – it was one hell of a wake-up call. In the first weeks of class we were given several assignments to assist us in setting up our own Professional Personas, such as setting up a LinkedIn account, and registering for the tech networking website TechHui. Along the way the class was also given a hefty helping of JavaScript 101 from freecodecamp.com, which was meant to prepare us for our first WOD, or ‘Work Out of the Day’. For those who may not be familiar with WOD’s, these are short programming exercises that that are one of the main components of a weekly regiment known as Athletic Software Engineering, or ASE for short. WOD’s are a lot like a short duration, high intensity workout, requiring students to utilize one or more skills to complete a task within a set amount of time. To say that this was intimidating would be a gross understatement, I was shaking in my boots and we had only finished going over the class syllabus. However, with the first week’s prep work in the books and the first WOD looming over us, that’s when it hit me. This class means business, this program means business, and it’s time to sink or swim.
 
-## What’s a smart question?
+## JavaScript
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Having completed the 106 exercises in basic JavaScript the first thing I felt was a resounding sense of relief. Not because I was glad that it was over, but because coding in JavaScript felt a lot like running into an old friend that you haven’t seen in a while, and that friend is Java. Some things are different here and there, but mostly the same except for that JavaScript is, for better or worse, a dynamically typed language. What this essentially means is that there is no variable typing like there is in Java, think int, double, or float. Instead, we have var, along with let and const as of ES6, which encompass all data types. Take a look at the following snippet of code as an example: 
+let foo = 0;
+console.log(foo); //0
+foo = ‘Zero’;
+console.log(foo); //Zero
+Here we have a single variable ‘foo’ which is instantiated as an integer whose value is then displayed in the console. Next, foo is assigned a string value of ‘Zero’ and again displayed in the console. In Java this code would send your compiler into a fit of type errors. However, since JavaScript is dynamically typed, our variable foo is able to take on a variety of different types. In my opinion, this gives developers a bit more flexibility to implement a number of elegant solutions that would normally require a bit more work using Java. Although I will concede that this also has the potential to make hunting down bugs a nightmarish experience. 
+Another significant difference between Java and JavaScript was the change from immutable objects, to mutable objects. Essentially, this means that JavaScript allows us to continue to add fields to an object even after its been created. Once again, I feel that this gives developers more flexibility with their code, so while Java may be considered the more powerful language between the two, I have found the flexibility that JavaScript offers to be a refreshing change of pace.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+## Athletic Software Engineering
 
-```
-Q: python date of the previous month
+Athletic Software Engineering, what exactly does that mean? No, it is not an exercise program for software engineers. At least, not in the traditional sense. ASE is a weekly ‘workout’ regiment that is designed to encourage students to have a deeper understanding of the course material, and work more efficiently. After going over the material for the current module, students complete several practice WOD’s at home, a group WOD in class, and then ending the week with the solo in class WOD. I found this method of learning to be both effective and enjoyable. The solo in class WOD, while being stressful, is a lot of fun and feels a lot like a race, which serves as great motivation if you’re the competitive type like myself. However, my personal favorite is without a doubt, the group WOD. This WOD focuses heavily on teamwork and communication as partners must work together, coding in tandem with one another to complete the given problem at the same time, within the allotted time. This opportunity to actively discuss ideas, and work with peers to achieve a goal was an invaluable, and truly enjoyable experience to have. 
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+## Final Thoughts
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+WOD’s, JavaScript, Athletic Software Engineering, its enough to make your head spin. We tackled a lot in these first two weeks, and as the sun sets on my second week of ICS 314 it’s hard to say what other experiences are waiting for me through the doors of Professor Cam Moore’s classroom. But I can say this much, I’ll be looking forward to it, and welcoming them all with open arms.
