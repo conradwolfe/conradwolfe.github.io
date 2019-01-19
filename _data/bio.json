@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Conrad Wolfe",
         "url": "http://linkedin.com/in/conradwolfe"
       }
     ]
@@ -51,28 +51,23 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
@@ -83,10 +78,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Transit Express",
+      "position": "Service Representative",
+      "website": "https://www.hitransitexpress.com/",
+      "startDate": "2017-06-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
