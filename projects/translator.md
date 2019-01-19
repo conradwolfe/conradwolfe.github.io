@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/morsecode.png
 title: Translator
 permalink: projects/translator
 # All dates must be YYYY-MM-DD format!
