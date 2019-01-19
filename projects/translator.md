@@ -7,7 +7,7 @@ permalink: projects/translator
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-13
 labels:
-  - c
+  - C
   - ICS 212
 summary: A command line app that translates morse code into english.
 ---
