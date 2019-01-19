@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/circlecyl.jpg
 title: Inheritance
 permalink: projects/inheritance
 # All dates must be YYYY-MM-DD format!
