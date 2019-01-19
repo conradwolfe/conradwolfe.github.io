@@ -7,8 +7,7 @@ permalink: projects/inheritance
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-21
 labels:
-  - c++
-  - Object Oriented Programming
+  - C++
   - ICS 212
 summary: I created a class to represent a circle, and a driver to test it.
 ---
