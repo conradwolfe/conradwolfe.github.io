@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/queue.jpg
 title: Queue
 permalink: projects/queue
 # All dates must be YYYY-MM-DD format!
