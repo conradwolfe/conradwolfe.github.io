@@ -1,6 +1,6 @@
 ---
 layout: essay
-draft: true
+published: false
 type: essay
 title: Do Smart Questions Exist?
 # All dates must be YYYY-MM-DD format!
