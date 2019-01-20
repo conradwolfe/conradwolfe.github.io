@@ -24,6 +24,6 @@ Prior to this assignment I had some difficulty discerning the advantages of usin
 Inheritance, method overriding, and constructor overloading in C++.
 
 <code>
-  &nbsp;  #https://stackoverflow.com/questions/15721373/how-do-i-ensure-that-whitespace-is-preserved-in-markdown
+  &nbsp;  # https://stackoverflow.com/questions/15721373/how-do-i-ensure-that-whitespace-is-preserved-in-markdown
 </code>
 You can find the source code for my projects in my projects repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_212_23/WolfeConrad23.cpp).
