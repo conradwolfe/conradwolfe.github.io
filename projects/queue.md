@@ -13,14 +13,14 @@ summary: A simple GUI app that creates a queue from a file and allows users to i
 ---
 ## Description
 
-As an assignment for ICS 211 - Intro to Computer Science II, I was tasked with creating a GUI application that allows a user to view, edit and export data from a queue to/from a .txt file. 
+As an assignment for ICS 211 - Intro to Computer Science II, I was tasked with using Java to create a GUI application that allows a user to view, edit, and export data from a queue to/from a .txt file. 
 
 ## Lesons Learned
 
-This was my first time getting tp use JPanes in order to implement a GUI to create an interactive experience outside of the console.
+This assignment gave me the chance to practice using JPanes in order to implement a GUI to create an interactive experience outside of the console. I also got to work with a queue and see the flow of data, which was helpful in understanding how the data structure works on a more fundamental level.
 
 ## Skills Acquired
 
-using Java to File i/o, working with queues, and implement of a driver and GUI
+Using Java to perform File i/o, work with queues, and implement a driver and GUI
 
-You can find the source code in my projects repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_211_20/WolfeConrad20.java).
+You can find the source code for all my projects in my projects repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_211_20/WolfeConrad20.java).
