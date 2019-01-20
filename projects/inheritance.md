@@ -24,4 +24,4 @@ Prior to this assignment I had some difficulty discerning the advantages of usin
 
 Inheritance, method overriding, and constructor overloading in C++.
 
-You can find the source code for all my projects in my projects repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_212_23/WolfeConrad23.cpp).
+You can find the source code for all my projects in my project's repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_212_23/WolfeConrad23.cpp).
