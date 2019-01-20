@@ -1,1 +1,15 @@
+---
+layout: essay
+type: essay
+title: Diving into Software Engineering
+# All dates must be YYYY-MM-DD format!
+date: 2019-01-16
+labels:
+  - JavaScript
+  - Software Engineering
+  - ICS 314
+---
+
+<img class="ui huge centered rounded image" src="../images/javascript.jpg">
+
 Irony found [here] (https://meta.stackexchange.com/questions/225739/stack-overflow-has-gotten-mean)
