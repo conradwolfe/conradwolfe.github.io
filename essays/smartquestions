@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Diving into Software Engineering
+title: Do Smart Questions Exist?
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-16
+date: 2019-01-19
 labels:
-  - JavaScript
-  - Software Engineering
+  - StackOverflow
+  - Thoughts & Analysis
   - ICS 314
 ---
 
