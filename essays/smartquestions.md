@@ -11,6 +11,8 @@ labels:
 ---
 
 <img class="ui huge centered rounded image" src="../images/javascript.jpg">
-##Look I'm a header
+
+## Look I'm a header
+
 While perusing StackOverflow while researching for this essay I found a bad question about bad questions that was severely downvoted. 
 Irony found [here](https://meta.stackexchange.com/questions/225739/stack-overflow-has-gotten-mean)
