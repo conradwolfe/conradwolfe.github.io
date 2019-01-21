@@ -21,9 +21,9 @@ As a student who just transferred to the University of Hawaii at Manoa, I wasn�
 Having completed the 106 exercises in basic JavaScript, the first thing I felt was a resounding sense of relief. Not because I was glad that it was over, but because coding in JavaScript felt a lot like running into an old friend that you haven’t seen in a while, and that friend is Java. Some things are different here and there, but most things felt the same or very similar. One thing that did stand out was that JavaScript is, for better or for worse, a dynamically typed language. What this essentially means is that there is no variable typing like there is in Java, think int, double, or float. Instead, we have var, along with let and const as of ES6, which encompass all data types. Take a look at the following snippet of code as an example: 
 
 ```javascript
-let foo = 0;
+var foo = 0;
 console.log(foo); //outputs 0
-foo = ‘Zero’;
+var = ‘Zero’;
 console.log(foo); //outputs Zero
 ```
 
