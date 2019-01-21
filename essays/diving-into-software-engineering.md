@@ -23,7 +23,7 @@ Having completed the 106 exercises in basic JavaScript, the first thing I felt w
 ```javascript
 var foo = 0;
 console.log(foo); //outputs 0
-var = ‘Zero’;
+foo = ‘Zero’;
 console.log(foo); //outputs Zero
 ```
 
