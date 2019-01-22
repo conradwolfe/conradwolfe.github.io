@@ -15,5 +15,7 @@ labels:
 
 ## Look I'm a header
 
+Example of a [bad question](https://stackoverflow.com/questions/20574925/c-file-homework).
+
 While perusing StackOverflow and doing some researching for this essay I found a bad question about bad questions that was severely downvoted. 
 Irony found [here](https://meta.stackexchange.com/questions/225739/stack-overflow-has-gotten-mean)
