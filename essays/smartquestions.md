@@ -13,7 +13,14 @@ labels:
 
 <img class="ui huge centered rounded image" src="../images/javascript.jpg">
 
-## Look I'm a header
+## Intro
+
+“There’s no such thing as a dumb question”, I’m sure that everyone has heard that saying at some point in their lives. But is it true? After reading [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html#bespecific) by Eric Steven Raymond, I am of the opinion that they do exist, and things can get pretty ugly. But there are two sides to every coin. Having dumb questions means that we have smart questions too, and that’s something that I can get behind. 
+
+## Why does it matter?
+
+
+## Examples plox
 
 Example of an [good question](https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type).
 This question clearly states what it is the asker is looking for, shows that they have some understanding of the subject, and that they have done preliminary research before asking. As a result it has an absolutely masive amount of upvotes, as well as having recieved a quality answer within minutes of the question being asked, it's also worth noting that the answer was also massively upvoted..
