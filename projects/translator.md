@@ -12,7 +12,7 @@ labels:
 summary: A simple command line app that translates Morse code into English.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/morsecode.jpg">
+<img class="ui medium right floated rounded image" src="../images/morsecode.png">
 
 ## Description
 
