@@ -12,6 +12,8 @@ labels:
 summary: A quick exercise in inheritance using a circle and cylinder
 # https://stackoverflow.com/questions/15721373/how-do-i-ensure-that-whitespace-is-preserved-in-markdown
 ---
+<img class="ui huge centered rounded image" src="../images/circlecyl.jpg">
+
 ## Description
 
 As an assignment for ICS 212 - Program Structure I was tasked with using C++ to create two classes, One parent class representing a circle, and a child class that represents a cylinder. The key skills we utilized in this assignment were inheritance, method overriding, and constructor overloading. This allowed us to see the interaction between parent and child classes and how it might be implemented in a real-life situation.
