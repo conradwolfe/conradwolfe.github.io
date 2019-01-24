@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img class="ui huge centered rounded image" src="../images/StackOverflow.png">
+[<img class="ui huge centered rounded image" src="../images/StackOverflow.png">](https://stackoverflow.com/)
 
 ## Intro
 
