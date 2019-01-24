@@ -11,6 +11,9 @@ labels:
   - ICS 212
 summary: A simple command line app that translates Morse code into English.
 ---
+
+<img class="ui medium right floated rounded image" src="../images/morsecode.jpg">
+
 ## Description
 
 For ICS 212 - Software Design I was tasked with designing a Morse code to English translator using C.
