@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Diving into Software Engineering
+title: Diving Into Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-16
 labels:
