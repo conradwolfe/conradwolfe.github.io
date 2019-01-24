@@ -12,7 +12,7 @@ labels:
 summary: A quick exercise in inheritance using a circle and cylinder
 # https://stackoverflow.com/questions/15721373/how-do-i-ensure-that-whitespace-is-preserved-in-markdown
 ---
-<img class="ui huge centered rounded image" src="../images/circlecyl.jpg">
+<img class="ui medium right rounded image" src="../images/circlecyl.jpg">
 
 ## Description
 
