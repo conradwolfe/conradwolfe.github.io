@@ -11,6 +11,9 @@ labels:
   - ICS 211
 summary: A simple GUI app that creates a queue from a file and allows users to interact with it.
 ---
+
+<img class="ui medium right floated rounded image" src="../images/queue.jpg">
+
 ## Description
 
 As an assignment for ICS 211 - Intro to Computer Science II, I was tasked with using Java to create a GUI application that allows a user to view, edit, and export data from a queue to/from a .txt file. 
