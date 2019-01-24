@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Dumb Questions Get Dumb Answers
+title: A Smart Question a Day Keeps the Moderators Away
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-19
 labels:
