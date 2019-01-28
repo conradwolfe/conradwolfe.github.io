@@ -1,13 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering: Interests and Goals
+title: Diving Into Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-27
+date: 2019-01-16
 labels:
+  - JavaScript
   - Software Engineering
   - ICS 314
 ---
+
+<img class="ui huge centered rounded image" src="../images/javascript.jpg">
 
 ## Interest
 When I decided that I wanted to go into Software Engineering it was in no small part due to my interest in Game Development. I have been playing video games for as long as I can remember, and the idea of learning to develop them really caught my interest. From there, after enrolling in my first Computer Science course I discovered my love for coding and became interested in Artificial Intelligence, and Cyber Security. 
