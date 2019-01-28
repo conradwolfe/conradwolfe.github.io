@@ -24,6 +24,6 @@ This assignment gave me the chance to practice using JPanes in order to implemen
 
 ## Skills Acquired
 
-Using Java to perform File i/o, work with queues, and implement a driver and GUI
+This assignment gave me experience using Java to perform File i/o, work with queues, and implement a driver and GUI
 
 You can find the source code for all my projects in my project's repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_211_20/WolfeConrad20.java).
