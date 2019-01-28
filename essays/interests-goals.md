@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Software Engineering: Interests and Goals
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-16
+date: 2019-01-27
 labels:
   - Software Engineering
   - ICS 314
