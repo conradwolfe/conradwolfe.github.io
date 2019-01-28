@@ -16,7 +16,7 @@ summary: A simple command line app that translates Morse code into English.
 
 ## Description
 
-For ICS 212 - Software Design I was tasked with designing a command line app using C to translate Morse code to English.
+For ICS 212 - Software Design I was tasked with designing a command line app in C that uses arrays to translate Morse code to English.
 
 ## Lessons Learned
 
@@ -24,7 +24,7 @@ This assignment allowed me to practice using the command line to recieve input, 
 
 ## Skills Acquired
 
-using C to perform command line input, and data manipulation.
+Experience using C to perform command line input, and data manipulation.
 
 
 You can find the source code in my project's repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_212_15/WolfeConrad15.c).
