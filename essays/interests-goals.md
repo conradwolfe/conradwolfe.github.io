@@ -1,11 +1,10 @@
 ---
 layout: essay
 type: essay
-title: Diving Into Software Engineering
+title: Software Engineering: Interests and Goals
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-16
+date: 2019-01-27
 labels:
-  - JavaScript
   - Software Engineering
   - ICS 314
 ---
