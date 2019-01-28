@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - ICS 314
 ---
+
 ## Interest
 When I decided that I wanted to go into Software Engineering it was in no small part due to my interest in Game Development. I have been playing video games for as long as I can remember, and the idea of learning to develop them really caught my interest. From there, after enrolling in my first Computer Science course I discovered my love for coding and became interested in Artificial Intelligence, and Cyber Security. 
 
