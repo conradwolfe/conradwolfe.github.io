@@ -20,10 +20,10 @@ As an assignment for ICS 211 - Intro to Computer Science II, I was tasked with u
 
 ## Lessons Learned
 
-This assignment gave me the chance to practice using JPanes in order to implement a GUI to create an interactive experience outside of the console. I also got to work with a queue and see the flow of data, which was helpful in understanding how the data structure works on a more fundamental level.
+This assignment gave me the chance to practice using JPanes in order to implement a GUI to create an interactive experience outside of the console. I also got to work with the queue data structure and see the flow of data, which was helpful in understanding how the data structure works on a more fundamental level.
 
 ## Skills Acquired
 
-This assignment gave me experience using Java to perform File i/o, work with queues, and implement a driver and GUI
+This assignment gave me experience using Java to perform File i/o, work with queues, and implement a GUI
 
 You can find the source code for all my projects in my project's repository on [github](https://github.com/conradwolfe/icsprojects/blob/master/ics_211_20/WolfeConrad20.java).
