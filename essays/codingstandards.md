@@ -18,7 +18,7 @@ This week in ICS 314 we have begun our journey towards achieving competency in o
 
 ## ESLint
 
-After spending the past week working with ESLint, I'm happy to report that it was an enjoyable experience. In the beginning I struggled to conform to the new coding style for this class, 
+After spending the past week working with ESLint, I'm happy to report that it was an enjoyable experience. Initially I struggled to conform to the new coding style for this class, but eventually managed to acclimate to the new convention. Once I was comfortable, ESLint noticeably improved my workflow and helped me address issues as they arose. By being able to quickly address issues, chasing the green checkmark never felt like a chore, and instead gave me a great sense of satisfaction.  
 
 ## Pain Versus Gain
 
