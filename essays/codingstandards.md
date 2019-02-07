@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img class="ui large centered rounded image" src="../images/eslint.png">
+<img class="ui medium left floated rounded image" src="../images/eslint.png">
 
 ## Introduction
 
