@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img class="ui medium left floated rounded image" src="../images/eslint.png">
+<img class="ui medium rounded image" src="../images/eslint.png">
 
 ## Introduction
 
@@ -18,7 +18,7 @@ This week in ICS 314 we have begun our journey towards achieving competency in o
 
 ## ESLint
 
-After spending the past week working with ESLint, 
+After spending the past week working with ESLint, I'm happy to report that it was an enjoyable experience. In the beginning I struggled to conform to the new coding style for this class, 
 
 ## Pain Versus Gain
 
