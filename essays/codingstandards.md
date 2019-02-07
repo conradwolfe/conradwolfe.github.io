@@ -18,11 +18,11 @@ This week in ICS 314 we have begun our journey towards achieving competency in o
 
 ## ESLint
 
-
+After spending the past week working with ESLint, 
 
 ## Pain Versus Gain
 
-ESLint aggressively tracks down and flags any deviation from the currently enforced coding standard, and while this can be annoying at times, I was pleasantly surprised with the wealth of benefits that it brings to the table. I found that sa time went on, I was making far less syntactical mistakes than before, which tremendously boosted my efficiency.   
+ESLint aggressively tracks down and flags any deviation from the currently enforced coding standard, and while this can be aggravating at times, I was pleasantly surprised with the wealth of benefits that it brings to the table. As I spent more time under ESLints ever watchful eye, my code was noticeably more readable than before. I also noticed that I was making far less syntactical mistakes, which tremendously boosted my efficiency. However, ESLint is not without its flaws. The strict enforcement of the coding standard can be confusing at times, and flag false positives. This is most noticeable when writing functions. Once a function or variable is declared, ESLint will immediately flag that there is an error because the function has not been used yet. 
 
 ## Final Thoughts
 
