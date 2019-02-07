@@ -14,11 +14,11 @@ labels:
 
 ## Introduction
 
-This week in ICS 314 we began our module on IDE's and Coding Standards, using the IntelliJ IDE along with ESLint for quality assurance.
+This week in ICS 314 we have started our journey towards achieving competency in our class software stack in ernest. In the IDE and Quality Assurance modues we were required to install, configure, and become familiar with using the [IntelliJ](https://www.jetbrains.com/student/) IDE for development, along with [ESLint](https://eslint.org/) for quality assurance. 
 
 ## ESLint
 
-I have mixed feelings towards ESLint. Having the IDE tell me when 
+I have mixed feelings towards ESLint. Having a class coding standard in place makes it significantly easier to read each others code. 
 
 ## Pain Versus Gain
 
