@@ -14,15 +14,15 @@ labels:
 
 ## Introduction
 
-This week in ICS 314 we have started our journey towards achieving competency in our class software stack in ernest. In the IDE and Quality Assurance modues we were required to install, configure, and become familiar with using the [IntelliJ](https://www.jetbrains.com/student/) IDE for development, along with [ESLint](https://eslint.org/) for quality assurance. 
+This week in ICS 314 we have begun our journey towards achieving competency in our class software stack in ernest. In the IDE and Quality Assurance modules we were required to install, configure, and become familiar with using the [IntelliJ](https://www.jetbrains.com/student/) IDE for development, along with [ESLint](https://eslint.org/) for quality assurance. 
 
 ## ESLint
 
-I have mixed feelings towards ESLint. Having a class coding standard in place makes it significantly easier to read each others code. 
+
 
 ## Pain Versus Gain
 
-
+ESLint aggressively tracks down and flags any deviation from the currently enforced coding standard, and while this can be annoying at times, I was pleasantly surprised with the wealth of benefits that it brings to the table. I found that sa time went on, I was making far less syntactical mistakes than before, which tremendously boosted my efficiency.   
 
 ## Final Thoughts
 
