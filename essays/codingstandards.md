@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: ESLint & Coding Standards
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-06
 labels:
