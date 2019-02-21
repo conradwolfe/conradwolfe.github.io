@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Diving Into Software Engineering
+title: Semantic-UI
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-16
+date: 2019-02-20
 labels:
-  - JavaScript
+  - Semantic-UI
   - Software Engineering
   - ICS 314
 ---
 
-<img class="ui huge centered image" src="../images/semantic-ui-splash.jpg">
+<img class="ui huge centered image" src="../images/semantic-ui-splash.jpg" style="background-size: cover;">
 
 ## Intro
 In this week’s UI Design (Framework) module in ICS 314 we made the jump from raw HTML and CSS to using UI Frameworks for web development. Our goal for this week was to become comfortable using a UI Framework to design usable, responsive, and attractive web pages. The framework that we used is the open source CSS framework Semantic-UI which gave us access to a wealth of features, all of which have excellent documentation.
