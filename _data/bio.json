@@ -49,9 +49,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Java",
         "C",
         "C++",
-        "Java",
         "JavaScript",
         "Semantic-UI",
         "React",
@@ -76,6 +76,7 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 314"
       ]
     },
     {
@@ -86,6 +87,7 @@
       "endDate": "2018-05-07",
       "gpa": "",
       "courses": [
+        "ICS 111", "ICS 141", "ICS 211", "ICS 241", "ICS 212"
       ]
     }
   ],
