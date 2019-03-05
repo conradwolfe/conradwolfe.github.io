@@ -13,7 +13,7 @@ labels:
 <img class="ui huge centered image" src="../images/semantic-ui-splash.jpg">
 <br/>
 
-  In this week’s UI Design (Framework) module in ICS 314 we made the jump from raw HTML and CSS to using UI Frameworks for web development. Our goal for this week was to become comfortable using a UI Framework to design usable, responsive, and attractive web pages. The framework that we used is the open source CSS framework Semantic-UI which gave us access to a wealth of features, all of which have excellent documentation.
+&emsp;In this week’s UI Design (Framework) module in ICS 314 we made the jump from raw HTML and CSS to using UI Frameworks for web development. Our goal for this week was to become comfortable using a UI Framework to design usable, responsive, and attractive web pages. The framework that we used is the open source CSS framework Semantic-UI which gave us access to a wealth of features, all of which have excellent documentation.
 
 ### What Are UI Frameworks?
   UI Frameworks are a library that provides tools that help to build a web application. The main benefit of a UI Framework is that they take care of the boilerplate code for you. This allows developers to quickly create a usable, responsive, and attractive web page, rather than having to create all of its components from scratch. Some popular UI Frameworks are Bootstrap, Foundation, Materialize, and Material UI.
