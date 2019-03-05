@@ -26,3 +26,4 @@ labels:
 
 ### Final Thoughts
 &emsp;&emsp;Working with Semantic-UI was a very positive experience, and although there were a few minor annoyances here and there, it is absolutely a tool that is worth learning and I would recommend it to any developer that is getting started in web development. Next week in ICS 314 we will be starting our module on React, a component-based framework that will bring us one step closer to achieving competency in our class software stack.
+<br/>
