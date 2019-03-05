@@ -101,7 +101,7 @@
     {
       "company": "LensCrafters",
       "position": "Lead Technician",
-      "website": "",
+      "website": "https://www.lenscrafters.com/",
       "startDate": "2016-05-01",
       "endDate": "2017-02-01",
       "summary": "",
@@ -127,13 +127,24 @@
     }
   ],
   "volunteer": [
-  ],
-  "awards": [
     {
+      "organization": "ACM Manoa: Game Development",
+      "website": "https://acmanoa.github.io/",
+      "position": "Member",
+      "startDate": "2019-01-29",
+      "endDate": "Present",
+      "summary": "Discuss and explore topics realted to game development.",
+      "highlights": [
+        ""
+      ]
+    } 
+  ],   
+  "awards": [
+    { 
       "title": "First place",
       "date": "2013",
       "awarder": "Olelo Youth Xchange Student Video Competition",
-      "summary": "My team won first place in the energy conservation catagory for our video \"Turn it off\"."
+      "summary": "My team won first place in the energy conservation catagory for our video \"Turn it Off\"."
     }
   ],
   "references": [
