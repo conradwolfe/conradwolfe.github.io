@@ -8,6 +8,7 @@ labels:
   - ESLint
   - Software Engineering
   - ICS 314
+summary: This week in ICS 314 we have begun our journey towards achieving competency in our class software stack in ernest. In the IDE and Quality Assurance modules we were required to install, configure, and become familiar with using the...
 ---
 
 <img class="ui medium rounded image" src="../images/eslint.png">
