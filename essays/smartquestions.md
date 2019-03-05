@@ -12,8 +12,6 @@ labels:
 
 [<img class="ui huge centered rounded image" src="../images/StackOverflow.png">](https://stackoverflow.com/)
 
-### Introduction
-
 “There’s no such thing as a dumb question”, I’m sure that everyone has heard this saying at some point in their lives. But is it true? After reading [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html#bespecific) by Eric Steven Raymond, I am of the opinion that they do exist, and things can get pretty ugly. But don't worry, there are two sides to every coin. Having dumb questions means that we have smart questions too, and that’s something that I can get behind. 
 
 ### What do Smart Questions Look Like?
