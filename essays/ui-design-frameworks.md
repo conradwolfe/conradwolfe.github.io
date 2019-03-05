@@ -8,6 +8,7 @@ labels:
   - Semantic-UI
   - Software Engineering
   - ICS 314
+summary: In this week’s UI Design (Framework) module in ICS 314 we made the jump from raw HTML and CSS to using UI Frameworks for web development. Our goal for this week was to become comfortable using a UI Framework...
 ---
 
 <img class="ui huge centered image" src="../images/semantic-ui-splash.jpg">
