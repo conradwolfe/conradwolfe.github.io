@@ -12,8 +12,6 @@ labels:
 
 <img class="ui huge centered rounded image" src="../images/javascript.jpg">
 
-### Introduction
-
 As a student who just transferred to the University of Hawaii at Manoa, I wasn’t sure what was waiting for me beyond the doors to Professor Cam Moore’s section of ICS 314 – Software Engineering. What I quickly found out was that it was a lot like diving into a cold pool early in the morning – it was one hell of a wake-up call. In the first weeks of class we were given several assignments to assist us in setting up our own Professional Personas, such as setting up a LinkedIn account, and registering for the tech networking website TechHui. Along the way the class was also given a hefty helping of JavaScript 101 from freecodecamp.com, which was meant to prepare us for our first WOD, or ‘Work Out of the Day’. For those who may not be familiar with WOD’s, these are short programming exercises that that are one of the main components of a weekly regiment known as Athletic Software Engineering, or ASE for short. WOD’s are a lot like a short duration, high intensity workout, requiring students to utilize one or more skills to complete a task within a set amount of time. To say that this was intimidating would be a gross understatement, I was shaking in my boots and we had only finished going over the class syllabus. However, with the first week’s prep work in the books and the first WOD looming over us, that’s when it hit me. This class means business, this program means business, and it’s time to sink or swim.
 
 ### JavaScript
