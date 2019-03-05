@@ -10,7 +10,6 @@ labels:
   - C++
   - ICS 212
 summary: A quick exercise in inheritance using a circle and cylinder
-# https://stackoverflow.com/questions/15721373/how-do-i-ensure-that-whitespace-is-preserved-in-markdown
 ---
 <img class="ui medium right floated rounded image" src="../images/circlecyl.jpg">
 
