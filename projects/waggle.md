@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/morsecode.png
+image: images/white-inverted-logo.png
 title: Waggle
 permalink: projects/waggle
 # All dates must be YYYY-MM-DD format!
