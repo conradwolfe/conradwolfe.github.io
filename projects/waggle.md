@@ -32,7 +32,7 @@ My contribution to this project was to assist in the development of the landing 
 
 ## Lessons Learned
 
-The biggest takeaway from this project was the experience of working with a team in order to develop an application and getting to see the positives and negatives that come along with it. Making sure that all group members were on the same page and working towards the same goal proved to be challenging at times.
+The biggest takeaway from this project was the experience of working with a team in order to develop an application and getting to see the positives and negatives that come along with it. Making sure that all group members were on the same page and working towards the same goal did prove to be challenging at times. However, at the end of the day working as a team was an incredibly enjoyable experience and I feel like we managed to create something pretty cool together. I am truly appreciative that I got to work with this group of people, and of the time and effort that they invested in order to bringing this project to life.
 
 
 You can find the source code for this app in the projects repository on [github](https://github.com/thehivemanoa/waggleapp).
