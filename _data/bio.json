@@ -6,7 +6,7 @@
     "email": "cwolfe77@hawaii.edu",
     "phone": "",
     "website": "https://conradwolfe.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96789",
@@ -70,7 +70,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2019-01-07",
       "endDate": "Present",
@@ -99,9 +99,9 @@
     {
       "company": "Transit Express",
       "position": "Service Representative",
-      "website": "https://www.hitransitexpress.com/",
+      "website": "",
       "startDate": "2017-08-01",
-      "endDate": "Present",
+      "endDate": "2019-01-07",
       "summary": "",
       "highlights": [
         "Serviced customers unique needs to ensure a worry-free shipping process.",
